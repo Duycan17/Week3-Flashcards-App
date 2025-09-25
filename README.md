@@ -1,30 +1,19 @@
-# Language learning flashcards
+Ứng Dụng Thẻ Ghi Nhớ
+Ứng dụng học từ vựng tiếng nước ngoài với thẻ ghi nhớ tương tác và chế độ kiểm tra.
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/duys-projects-95b966d4/v0-language-learning-flashcards)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/luTW0PPFdCo)
-
-## Overview
-
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
-
-## Deployment
-
-Your project is live at:
-
-**[https://vercel.com/duys-projects-95b966d4/v0-language-learning-flashcards](https://vercel.com/duys-projects-95b966d4/v0-language-learning-flashcards)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/projects/luTW0PPFdCo](https://v0.app/chat/projects/luTW0PPFdCo)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+Tính Năng
+📚 Tạo và quản lý bộ thẻ ghi nhớ
+🔄 Học tập với thẻ lật tương tác
+🎯 Chế độ kiểm tra trắc nghiệm
+📱 Hoạt động offline
+📊 Theo dõi tiến độ học tập
+Cách Sử Dụng
+Tạo bộ thẻ mới từ trang chủ
+Thêm từ vựng vào bộ thẻ
+Bắt đầu học tập hoặc làm bài kiểm tra
+Theo dõi tiến độ và thống kê
+Công Nghệ
+Next.js 15
+TypeScript
+Tailwind CSS
+Service Worker (offline)
